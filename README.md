@@ -25,5 +25,5 @@ pip install -r requirements.txt
 ## Testing
 To test the code run
 ```
-PYTHONPATH=. python -m pytest tests
+PYTHONPATH=segment_tree python -m pytest tests
 ```
